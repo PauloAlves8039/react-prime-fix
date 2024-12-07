@@ -1,10 +1,11 @@
-import { useState } from 'react'
-import './App.css'
+import "./App.css"
 
 function App() {
   
   return (
-    <div></div>
+    <div className="App">
+      <h1>TESTE</h1>
+    </div>
   )
 }
 
