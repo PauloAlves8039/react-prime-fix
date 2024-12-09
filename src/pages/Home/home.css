@@ -17,6 +17,13 @@
     font-size: 22px;
     display: block;
   }
+
+  .loading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 14px;
+  }
   
   .lista-filmes img{
     width: 900px;
