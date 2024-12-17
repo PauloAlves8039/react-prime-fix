@@ -2,7 +2,7 @@
 
 ## :computer: Projeto
 
-Repositório com aplicação web para simular um catálogo de filmes.
+Repositório com uma aplicação web para simular um catálogo de filmes, o código fonte do projeto foi baseado no curso [React Js do zero ao avançado na pratica](https://www.udemy.com/course/curso-reactjs/?couponCode=ST21MT121624).
 
 ## ✔️ Recursos Utilizados
 
@@ -17,6 +17,10 @@ Repositório com aplicação web para simular um catálogo de filmes.
 ```bash
 git clone https://github.com/PauloAlves8039/react-prime-fix.git
 ```
+
+## :camera: Screenshot
+
+<p align="center"> <img src="https://github.com/PauloAlves8039/react-prime-fix/blob/master/src/assets/images/screenshot.png?raw=true" /></p>
 
 ## :boy: Author
 
